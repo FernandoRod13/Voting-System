@@ -1,4 +1,4 @@
-# BigNumber
+# Voting System
 
 This project is a voting system that counts fvotes and ouputs the winners and loosers of each positon
 
