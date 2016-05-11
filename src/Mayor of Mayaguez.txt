@@ -1,0 +1,23 @@
+Amount of Votes: 10
+Amount of Blank Ballots: 0
+Amount of InvalidBallots: 0
+
+Final Resultes:
+  Candidate: Lola
+Number of Rank 1 votes:1
+Round: 1
+  Candidate: Juan
+Number of Rank 1 votes:1
+Round: 2
+  Candidate: Pucho
+Number of Rank 1 votes:3
+Round: 3
+  Candidate: Pardeep
+Number of Rank 1 votes:4
+Round: 4
+
+Winner:
+Candidate: Pepe
+Number of Rank 1 votes:6
+Round: 4
+
